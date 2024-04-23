@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "semana1", "semana1", "{D2934ABF-4270-4F5B-9EB0-369B73AD3397}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TA", "TA", "{FB9B2EA1-0EB7-4B48-A5B0-9F77B4C1BD34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotnet project", "dotnet project", "{E11FE520-B088-4068-B19F-1E77F6C1D06E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloWorldwith.NET", "semana1\TA\dotnet project\helloWorldwith.NET\helloWorldwith.NET.csproj", "{B9AFE705-3E52-4DC4-B4FC-8EB782272828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9AFE705-3E52-4DC4-B4FC-8EB782272828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AFE705-3E52-4DC4-B4FC-8EB782272828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9AFE705-3E52-4DC4-B4FC-8EB782272828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9AFE705-3E52-4DC4-B4FC-8EB782272828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB9B2EA1-0EB7-4B48-A5B0-9F77B4C1BD34} = {D2934ABF-4270-4F5B-9EB0-369B73AD3397}
+		{E11FE520-B088-4068-B19F-1E77F6C1D06E} = {FB9B2EA1-0EB7-4B48-A5B0-9F77B4C1BD34}
+		{B9AFE705-3E52-4DC4-B4FC-8EB782272828} = {E11FE520-B088-4068-B19F-1E77F6C1D06E}
+	EndGlobalSection
+EndGlobal

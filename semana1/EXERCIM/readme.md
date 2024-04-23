@@ -1,0 +1,6 @@
+-EXPLICACION EJERCICIO DOS:
+El código define una función llamada twoFer que toma un argumento opcional name (nombre) de tipo string. Si se proporciona un nombre, la función devuelve una cadena que dice "One for [nombre], one for me." Si no se proporciona ningún nombre, la función devuelve "One for you, one for me." Luego, se llaman a la función twoFer tres veces con diferentes nombres ("Do-yun" y "Alice") y sin ningún nombre, y se imprime el resultado en la consola.
+
+-EXPLICACION EJERCICIO TRES:
+La función colorCode toma un color como entrada y devuelve un número asociado con ese color, según el estándar de codificación de colores. Por ejemplo, si se pasa el color "black" a esta función, devolverá 0. Si se pasa "brown", devolverá 1, y así sucesivamente. Si el color no coincide con ninguno de los colores predefinidos, la función arrojará un error.
+El arreglo COLORS simplemente almacena una lista de colores en el mismo orden en que se espera que estén en la función colorCode. Este arreglo se puede utilizar para referencia o para realizar operaciones como asignar un color a un valor numérico o viceversa.
