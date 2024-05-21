@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henry\\OneDrive\\Documentos\\GitHub\\deberes-objetos2.1\\deberesObjetos\\semana1\\TA\\dotnet project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
+      "projectUniqueName": "C:\\Users\\henry\\OneDrive\\Documentos\\GitHub\\deberes-objetos2.1.1\\deberesObjetos\\semana1\\TA\\dotnet project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
       "projectName": "helloWorldwith.NET",
-      "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\GitHub\\deberes-objetos2.1\\deberesObjetos\\semana1\\TA\\dotnet project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
+      "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\GitHub\\deberes-objetos2.1.1\\deberesObjetos\\semana1\\TA\\dotnet project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
       "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henry\\OneDrive\\Documentos\\GitHub\\deberes-objetos2.1\\deberesObjetos\\semana1\\TA\\dotnet project\\helloWorldwith.NET\\obj\\",
+      "outputPath": "C:\\Users\\henry\\OneDrive\\Documentos\\GitHub\\deberes-objetos2.1.1\\deberesObjetos\\semana1\\TA\\dotnet project\\helloWorldwith.NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config"
